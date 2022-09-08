@@ -23,7 +23,7 @@ else:
 # Addition,Subtraction, Division, Multiplication, Exponent (Power), Modulus, Floor division.
 # Write a program that asks the answer for a mathematical expression, checks whether the user
 # is right or wrong, and then responds with a message accordingly.
-a = 2
+a = 12
 b = 3
 addition = int(input(f'What will be the result of addition  {a} + {b} = '))
 if int(addition) == a + b:
